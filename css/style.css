@@ -1,0 +1,72 @@
+ body {
+     background-image: linear-gradient(to bottom, rgba(235, 208, 208, 0.8) 100%, rgba(235, 208, 208, 0.8) 100%), 
+     url(/img/montazs.jpg);
+     background-size: 300px;
+ }
+
+ li {
+     display: inline;
+     margin-right: 5px;
+     text-align: center;
+ }
+
+ li:hover {
+     font-weight: bold;
+ }
+
+ .foto {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 55%;
+            }
+
+ img.one {
+     display: block;
+     margin-top: 80px;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+ }
+
+ img.two {
+     display: block;
+     margin-top: 30px;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+ }
+
+ #text1 {
+     font-style: italic;
+ }
+
+ #text2 {
+     text-align: right;
+     font-size: 18px;
+     margin-right: 5%;
+ }
+
+ #text2:hover {
+     font-weight: bold;
+ }
+
+ a {
+     color: darkcyan;
+ }
+
+ a:hover {
+     font-weight: bold;
+ }
+
+ li a {
+     color: darkblue;
+ }
+
+ #felirat {
+     margin-top: -10%;
+     margin-left: 23%;
+     width: 200px;
+     height: 85px;
+    
+ }
