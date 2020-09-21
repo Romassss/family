@@ -1,6 +1,6 @@
  body {
      background-image: linear-gradient(to bottom, rgba(235, 208, 208, 0.8) 100%, rgba(235, 208, 208, 0.8) 100%), 
-     url(/img/montazs.jpg);
+     url(img/montazs.jpg);
      background-size: 300px;
  }
 
