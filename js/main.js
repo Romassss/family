@@ -1,4 +1,4 @@
-let feliratok = ["Irházi-Család", "Леха купи биткоин", "Apa", "Iza", "Zsombi"];
+let feliratok = ["Irházi-Család", "leha kupi bitcoin", "Apa", "Iza", "Zsombi"];
 
 function getImgTitle(a) {
     let c = document.getElementById("felirat");
